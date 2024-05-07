@@ -1,3 +1,4 @@
-This is a Interactive Web Map of Production of Banana in Taiwan in 2022 year
-Mapping Author: YANG YU HSIANG
-MApping Time: 2024
+This is an Interactive Web Map of Yield of Banana in Taiwan in year 2022.
+Mapping Author: YANG YU HSIANG  
+Mapping Time: 2024
+Mapping Location: Taipei City, Taiwan
